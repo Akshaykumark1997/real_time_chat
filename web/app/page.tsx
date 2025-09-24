@@ -10,7 +10,7 @@ export default function LoginPage() {
     <div className="h-screen w-screen flex items-center justify-between bg-[#F0F4FC]">
       <div className="w-1/2 h-full flex flex-col items-start p-32 justify-center gap-2">
         <h1 className="text-2xl text-black">Welcome to</h1>
-        <h1 className="text-4xl text-black">Enter platform name</h1>
+        <h1 className="text-4xl text-black">Enter platform names</h1>
         <p className="text-black text-xs">
           Here, we believe that building a strong professional network begins
           with your participation. We are delighted to offer a modern and
